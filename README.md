@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Deluxe</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-- 🔭 I’m currently working on [texy](https://github.com/deluxesande/texy.git)
+- 🔭 I’m currently working on [Chat](https://github.com/deluxesande/chat.git)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Express**
 
 - 💬 Ask me about **react, express, django**
 
