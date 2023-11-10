@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/premium-vector/open-source-tiny-programmers-programming-website-internet-platform-developers-creating-open-code-software-script-free-software-computer-download-install-file-free_458444-1591.jpg?w=996)]()
 
 <h1 align="center">Hi 👋, I'm Deluxe</h1>
-<h3 align="center">A passionate full stack developer from Kenya</h3>
+<h3 align="center">A passionate full stack developer </h3>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
