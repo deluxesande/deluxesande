@@ -1,6 +1,5 @@
 # Welcome to Deluxe's GitHub Profile! 🚀
 
-## About Me
 Hey there! 👋 I'm Deluxe, a passionate fullstack developer with expertise in Django, React, and JavaScript. I love crafting robust, user-friendly web applications that bring value to users' lives. With a keen eye for detail and a knack for problem-solving, I'm always excited to tackle new challenges and learn new technologies.
 
 ## Skills
