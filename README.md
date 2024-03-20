@@ -19,7 +19,6 @@ Here are a few projects I've worked on:
 
 3. **Task Management App** - Created a task management application with Django REST Framework for the backend and React for the frontend, allowing users to organize their tasks efficiently.
 
-
 ## Get in Touch
 I'm always open to collaborating on exciting projects or just having a friendly chat. Feel free to reach out to me via [email](mailto:deluxesande@gmail.com), [Instagram](https://www.instagram.com/deluxecreates) or connect with me on [LinkedIn](https://www.linkedin.com/in/deluxe-sande-455384295).
 
