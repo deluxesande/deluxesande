@@ -28,10 +28,9 @@ UI/UX Design, Graphic Design, Video Editing, Git, GitHub
 ## 🚀 Selected Projects
 
 * **Salesense ERP** – [deluxesande.software](https://salesense.deluxesande.software) an ERP integrated with M-PESA.
+---
 ![Salesense](Landing%20Page.png)
-![Salesense](Features%20page.png)
-![Salesense](Integration%20Page.png)
-![Salesense](Pricing%20Page.png)
+---
 * **Real-Time Chat App** – Django Channels + React for live communication
 * **Stock Photos Platform** – Django-based platform to browse and download images
 * **Task Manager API & Frontend** – Built with Django REST Framework and React
