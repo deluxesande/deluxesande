@@ -1,31 +1,64 @@
-# Deluxe - Passionate Fullstack Developer 🚀
+# 👋 Deluxe Sande – Full-Stack Engineer & Designer
 
-Hello! I'm Deluxe, a skilled fullstack developer with a strong background in Django, React, and JavaScript. I'm passionate about creating robust, user-friendly web applications that solve real-world problems and enhance people's lives.
+Welcome to my GitHub profile! I’m Deluxe, a **full-stack engineer and designer** dedicated to building products that are practical, scalable, and elegantly designed.
 
-## Skills
-- **Languages**: Python, JavaScript
-- **Frontend**: React, HTML, CSS
-- **Backend**: Django, Django REST Framework
-- **Databases**: PostgreSQL, SQLite
-- **Version Control**: Git, GitHub
-- **Tools & Technologies**: Redux, Vite
 
-## Projects
-Some of the projects I've worked on include:
+## 💡 Who I Am
 
-1. **Chat App**: A real-time chat application built with Django Channels and React, allowing users to create chat rooms and communicate seamlessly.
+I combine **software engineering and design thinking** to develop solutions that not only work seamlessly but also deliver great user experiences. From backend APIs to frontend interfaces and visual design systems, I focus on delivering quality and impact.
 
-2. **Stock Photos Website**: A Django-powered stock photos platform where users can browse, search, and download high-quality images.
+## 🛠️ Core Skills
 
-3. **Task Management App**: A task management application developed with Django REST Framework and React, helping users organize their tasks efficiently.
+**Languages:**
+Python, JavaScript (React, Next.js), Java, Go
 
-## Get in Touch
-I'm always excited to collaborate on new projects or engage in insightful discussions. Feel free to reach out to me via:
+**Frontend:**
+React, Next.js, TailwindCSS, HTML, CSS
 
-[![Email](https://img.shields.io/badge/-deluxesande%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:deluxesande@gmail.com)
-[![Instagram](https://img.shields.io/badge/-deluxecreates-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/deluxecreates)
-[![LinkedIn](https://img.shields.io/badge/-Deluxe%20Sande-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deluxe-sande-455384295)
-[![Twitter URL](https://img.shields.io/twitter/url?style=flat-square&logo=twitter&logoColor=white&url=https://twitter.com/SandeDeluxe)](https://twitter.com/SandeDeluxe)
+**Backend:**
+Django, Django REST Framework, Express.js
 
-Let's create something amazing together! 😊✨
+**Databases:**
+PostgreSQL, SQLite, MongoDB
 
+**Other:**
+UI/UX Design, Graphic Design, Video Editing, Git, GitHub
+
+
+## 🚀 Selected Projects
+
+* **Salesense ERP** – [deluxesande.software](https://salesense.deluxesande.software) an ERP integrated with M-PESA.
+* **Real-Time Chat App** – Django Channels + React for live communication
+* **Stock Photos Platform** – Django-based platform to browse and download images
+* **Task Manager API & Frontend** – Built with Django REST Framework and React
+* **E-commerce Backend** – Secure multi-vendor API with authentication and payments
+
+
+## 🤝 How I Work
+
+✅ Focused on **problem-solving** and building products that serve real user needs
+✅ Prioritize **clean, maintainable code** and intuitive design
+✅ Comfortable working independently or within cross-functional teams
+✅ Thrive under tight deadlines, hackathons, and rapid prototyping
+
+
+## 📈 Currently Exploring
+
+* AI-powered design and development tools
+* Cross-platform apps with React Native and Java
+* Advanced backend architecture with Go
+
+
+## 📬 Let’s Collaborate
+
+I’m open to **freelance projects, full-time opportunities, and collaborative ventures**. If you have an idea or a product you want to bring to life, let’s connect.
+
+[![Email](https://img.shields.io/badge/-deluxesande%40gmail.com-c14438?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:deluxesande@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Deluxe%20Sande-0077B5?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/deluxe-sande-455384295)
+[![Instagram](https://img.shields.io/badge/-deluxecreates-E4405F?style=flat-square\&logo=Instagram\&logoColor=white)](https://www.instagram.com/deluxecreates)
+[![Twitter](https://img.shields.io/badge/-@SandeDeluxe-1DA1F2?style=flat-square\&logo=Twitter\&logoColor=white)](https://twitter.com/SandeDeluxe)
+
+
+✨ **Let’s build meaningful products together.**
+
+---
