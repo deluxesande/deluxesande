@@ -28,7 +28,7 @@ I enjoy working across the entire product lifecycle—from designing interfaces 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,python,django,go,java,postgres,mongodb,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,react,nextjs,svelte,astro,ts,tailwind,python,django,go,java,postgres,mongodb,redis,docker,kubernetes,linux,redux,vscode,bun,supabase,ubuntu,postman,obsidian,notion,gcp&theme=dark" />
 
 </div>
 
