@@ -2,14 +2,14 @@
 
 # Hi, I'm Deluxe Sande
 
-### Full-Stack Engineer & Product Designer
+### Full-Stack DevOps Engineer & Product Designer
 
 Building scalable software and intuitive digital experiences.
 
 <br>
 
 <a href="https://github.com/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Product+Designer;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full-Stack+DevOps+Engineer;Product+Designer;Building+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,9 +18,7 @@ Building scalable software and intuitive digital experiences.
 
 ## About
 
-I'm a full-stack engineer with a strong design background, focused on building products that are both technically sound and visually polished.
-
-I enjoy working across the entire product lifecycle—from designing interfaces in Figma to developing scalable backend systems and deploying production-ready applications.
+Fullstack DevOps Engineer with a Computer Science background and a strong focus on secure, **self-hosted infrastructure** on Linux using **Docker** and **Cloudflare Tunnel**. Experienced in establishing **CI/CD pipelines** and deployments utilizing GitHub Actions, Vercel, and Netlify, alongside workflow **automation** with n8n. Proven track record of deploying and administering Nextcloud, Vaultwarden, and **private on-premise AI assistants** while maintaining company platforms serving **150+ users** across multiple sites. Founder and developer of a multi-tenant SaaS integrating local financial APIs, backed by strong backend engineering skills in Next.js, Django, and PostgreSQL. Highly experienced with **Google Cloud Platform** and **Google Workspace administration**, paired with extensive leadership of technical teams and communities.
 
 ---
 
@@ -31,15 +29,6 @@ I enjoy working across the entire product lifecycle—from designing interfaces 
 <img src="https://skillicons.dev/icons?i=figma,react,nextjs,svelte,astro,ts,tailwind,python,django,go,java,postgres,mongodb,redis,docker,kubernetes,linux,redux,vscode,bun,supabase,ubuntu,postman,obsidian,notion,gcp&theme=dark" />
 
 </div>
-
----
-
-## Currently Exploring
-
-* Go microservices
-* AI-assisted product development
-* Design systems
-* Kotlin
 
 ---
 
