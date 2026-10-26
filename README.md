@@ -14,13 +14,9 @@ Building scalable software and intuitive digital experiences.
 
 </div>
 
----
-
 ## About
 
 Fullstack DevOps Engineer with a Computer Science background and a strong focus on secure, **self-hosted infrastructure** on Linux using **Docker** and **Cloudflare Tunnel**. Experienced in establishing **CI/CD pipelines** and deployments utilizing GitHub Actions, Vercel, and Netlify, alongside workflow **automation** with n8n. Proven track record of deploying and administering Nextcloud, Vaultwarden, and **private on-premise AI assistants** while maintaining company platforms serving **150+ users** across multiple sites. Founder and developer of a multi-tenant SaaS integrating local financial APIs, backed by strong backend engineering skills in Next.js, Django, and PostgreSQL. Highly experienced with **Google Cloud Platform** and **Google Workspace administration**, paired with extensive leadership of technical teams and communities.
-
----
 
 ## Tech Stack
 
@@ -30,7 +26,6 @@ Fullstack DevOps Engineer with a Computer Science background and a strong focus 
 
 </div>
 
----
 
 ## Connect
 
